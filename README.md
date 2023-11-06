@@ -1,0 +1,1 @@
+# Simple store in django webapp
